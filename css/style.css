@@ -1,0 +1,23 @@
+.header{
+    text-align: center;
+    background-color: rgb(52, 134, 121);
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: Arial;
+}
+.para{
+    background-color: rgb(198, 213, 233);
+    width: 50%;
+    padding: 15px;
+    font-family: Arial;
+}
+.paraall{
+    padding-left: 440px;
+}
+dt{
+    color: rgb(151, 16, 84);
+}
+.bgcolor{
+    background-color: rgb(235, 235, 177);
+}
